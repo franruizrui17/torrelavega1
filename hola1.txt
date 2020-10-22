@@ -1,0 +1,11 @@
+Hola  Fran <b> Ruiz </b>
+Nombre
+<span style="font-weight:bold">
+Apellidos
+</span>
+<span style="color:green">
+Los Corrales de buelna
+</span>
+<span style="font-weight:cursive">
+Apellidos
+</span>
